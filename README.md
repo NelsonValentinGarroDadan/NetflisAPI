@@ -1,5 +1,5 @@
 GET /movies <br>
-GET /movies/:<untitulo><br>
+GET /movies/:<un titulo> <br>
 POST /movies body: {<br>
 		"title": "<un titulo>",<br>
 		"year": <un año>,<br>
