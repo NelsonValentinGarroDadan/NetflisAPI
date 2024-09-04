@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const urlDB = "mongodb+srv://nelsonvgarro:SUB09d76sx4gFPGo@prueba.vofva.mongodb.net/movies"
+const urlDB = "mongodb+srv://nelsonvgarrodadan:zg5efej0vPIXA0xV@workplase.0pzcr.mongodb.net/movies"
 const dbCon = async ()=>{
     mongoose.connect(urlDB)
 };
