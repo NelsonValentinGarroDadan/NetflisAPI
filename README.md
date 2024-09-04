@@ -1,15 +1,15 @@
-GET /movies
-GET /movies/:<untitulo>
-POST /movies body: {
-		"title": "<un titulo>",
-		"year": <un año>,
-		"director": "<un director>",
-		"duration": "<hora>h <minutos>min",
-		"genre": [
-			"<un genero>",
-			"<un genero>",
-			"<un genero>"
-		],
-		"rate": <un numero flotante>,
-		"poster": "<una url>"
+GET /movies <br>
+GET /movies/:<untitulo><br>
+POST /movies body: {<br>
+		"title": "<un titulo>",<br>
+		"year": <un año>,<br>
+		"director": "<un director>",<br>
+		"duration": "<hora>h <minutos>min",<br>
+		"genre": [<br>
+			"<un genero>",<br>
+			"<un genero>",<br>
+			"<un genero>"<br>
+		],<br>
+		"rate": <un numero flotante>,<br>
+		"poster": "<una url>"<br>
 	}
