@@ -114,6 +114,6 @@ npm start
 - 🔧 Implementar nuevas rutas para actualizar y eliminar películas.
 - 🛠️ Añadir pruebas unitarias para mejorar la robustez de la API.
 ## 🖇️ **Enlaces importantes**
-- 🌐 [Deploy](https://nelsonvalentingarrodadan.github.io/Netflis/index.html)
+- 🌐 [Deploy](https://netflisapi.onrender.com/movies)
 - 🔗 [Frontend Repositorio](https://github.com/NelsonValentinGarroDadan/Netflis)
 <p align="center"> ¡Espero que disfrutes explorando **Netflis** tanto como yo disfruté construyéndolo! 🐧 </p>
